@@ -2393,7 +2393,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 892B1FA01926A84100E61379 /* FacebookSDK-Library.xcconfig */;
 			buildSettings = {
-<<<<<<< HEAD
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = NO;
 				DSTROOT = /tmp/facebook_ios_sdk.dst;
@@ -2411,8 +2410,6 @@
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-=======
->>>>>>> 331e7d38de3b2dbe4f6471f86be18d00aae2c740
 			};
 			name = Debug;
 		};
@@ -2420,7 +2417,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 892B1FA01926A84100E61379 /* FacebookSDK-Library.xcconfig */;
 			buildSettings = {
-<<<<<<< HEAD
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DSTROOT = /tmp/facebook_ios_sdk.dst;
@@ -2436,8 +2432,6 @@
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-=======
->>>>>>> 331e7d38de3b2dbe4f6471f86be18d00aae2c740
 			};
 			name = Release;
 		};
@@ -2480,7 +2474,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 892B1FA01926A84100E61379 /* FacebookSDK-Library.xcconfig */;
 			buildSettings = {
-<<<<<<< HEAD
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DSTROOT = /tmp/facebook_ios_sdk.dst;
@@ -2495,8 +2488,6 @@
 				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SKIP_INSTALL = YES;
-=======
->>>>>>> 331e7d38de3b2dbe4f6471f86be18d00aae2c740
 			};
 			name = Release64;
 		};
@@ -2525,7 +2516,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 892B1FA01926A84100E61379 /* FacebookSDK-Library.xcconfig */;
 			buildSettings = {
-<<<<<<< HEAD
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = NO;
 				DSTROOT = /tmp/facebook_ios_sdk.dst;
@@ -2541,8 +2531,6 @@
 				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SKIP_INSTALL = YES;
-=======
->>>>>>> 331e7d38de3b2dbe4f6471f86be18d00aae2c740
 			};
 			name = Debug64;
 		};
